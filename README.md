@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielGalves
 - 👀  Cursando Analise e  Desenvolvimento de Sistemas
-- 🌱 I’m currently lea nrning  <img height="15px" src="https://github.com/DanielGalves/img/blob/main/java.png"/>na Udemy
+- 🌱 I’m currently lea nrning  <img height="20px" src="https://github.com/DanielGalves/img/blob/main/java.png"/> na Udemy
 -  💻 Aprendendo javaScript na faculdade
 -  
 

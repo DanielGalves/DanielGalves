@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DanielGalves
 - 👀  Cursando Analise e  Desenvolvimento de Sistemas
 - 🌱 I’m currently lea nrning  <img height="20px" src="https://github.com/DanielGalves/img/blob/main/java.png"/> na Udemy
--  💻 Aprendendo javaScript na faculdade
--
--
--
+- 💻 Aprendendo javaScript na faculdade
+
+
+
  <h1><strong>Projetos pessoais</strong></h1>
  <div left="50px">
  <a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" />

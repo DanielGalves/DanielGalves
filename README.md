@@ -2,15 +2,16 @@
 - 👀  Cursando Analise e  Desenvolvimento de Sistemas
 - 🌱 I’m currently lea nrning  <img height="20px" src="https://github.com/DanielGalves/img/blob/main/java.png"/> na Udemy
 -  💻 Aprendendo javaScript na faculdade
--  
+-
+-
+-
+- Projetos pessoais
+- <img height="50px" src
 
 <!---
 DanielGalves/DanielGalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
 
 
 

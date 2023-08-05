@@ -6,7 +6,9 @@
 -
 -
 - Projetos pessoais
-- <img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" />
+ <div>
+ <a ><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" />
+ </a></div>
 
 <!---
 DanielGalves/DanielGalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

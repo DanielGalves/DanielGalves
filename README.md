@@ -5,7 +5,7 @@
 -
 -
 -
-- <p color="red">Projetos pessoais</p>
+- <p text-color="red">Projetos pessoais</p>
  <div left="50px">
  <a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" />
  </a></div>

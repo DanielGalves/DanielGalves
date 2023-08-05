@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGalves&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- <h1><strong>Tecnologies</strong></h1>
+ <h1><strong>Tecnologis</strong></h1>
 <img height="50px" src="https://github.com/DanielGalves/img/blob/main/java.png"/>

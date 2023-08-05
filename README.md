@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<h1><strong>Stats</strong></h1>
 <div>
 <a href="https://github.com/DanielGalves">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGalves&layout=compact&langs_count=7&theme=dracula"/>

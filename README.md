@@ -35,4 +35,6 @@ You can click the Preview link to take a look at your changes.
 <div >
  <img height="40px" src="https://github.com/DanielGalves/img/blob/main/java.png"/>
  <img height="40px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/>
+ <img height="40px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/>
+ <img height="40px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>
 </div>

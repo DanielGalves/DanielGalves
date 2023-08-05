@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h1><strong>Technologies</strong></h1>
 <img height="50px" src="https://github.com/DanielGalves/img/blob/main/java.png"/>
-<img height="50px" src="https://github.com/DanielGalves/img/blob/main/html5.png"/>
+<img height="50px" src="https://github.com/DanielGalves/img/blob/main/html5.webp"/>

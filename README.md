@@ -1,4 +1,3 @@
-<h1><strong>About</strong></h1>
 - 👋 Hi, I’m @DanielGalves
 - 👀  Cursando Analise e  Desenvolvimento de Sistemas
 - 🌱 I’m currently lea nrning  <img height="20px" src="https://github.com/DanielGalves/img/blob/main/java.png"/> na Udemy

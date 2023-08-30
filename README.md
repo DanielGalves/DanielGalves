@@ -16,7 +16,7 @@
 * Neste espaço vou adicionar meus projetos pessoais onde posso colocar meus conhecimentos em pratica. 
 
 |Calculadora|PokeDex|
-|:------:|:------:|
+|:------:|
 |<a href="https://calculadora-zeta-ashy.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/calc.png" /></a>|
 |<img height="20px" src="https://github.com/DanielGalves/img/blob/main/HTML5.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/JavaScript.png"/><img height="20px" src="https://github.com/DanielGalves/img/blob/main/css3.png"/>
 |<a href="https://pokedex-zeta-one.vercel.app/"><img height="50px" src="https://github.com/DanielGalves/img/blob/main/pokeball-one.svg" /></a>|

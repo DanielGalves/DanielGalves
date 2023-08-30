@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-gama-384b5692/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/danniel.gama/)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/danielgalv/)
-[<div style="background-color: black;" ><img height="25px" src="https://github.com/DanielGalves/img/blob/main/dio.svg"/></div>](https://www.dio.me/users/danielgama1)
+[<img height="25px" src="https://github.com/DanielGalves/img/blob/main/dio.svg"/>](https://www.dio.me/users/danielgama1)
 
 
 

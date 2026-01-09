@@ -1,6 +1,6 @@
 <h1><strong> Daniel Gama</strong></h1>
 
-- 👋 Olá sou Daniel Gama formado em Eletrotécnica pela [Escola Técnica de Brasilia - ETB](http://www.etb.com.br/) onde tive meu primeiro contato com a area de programação. hoje estou cursando  Analise e  Desenvolvimento de Sistemas na [Gran Faculdade](https://faculdade.grancursosonline.com.br/curso/analise-e-desenvolvimento-de-sistemas/). 
+- 👋 Olá sou Daniel Gama formado em Eletrotécnica pela [Escola Técnica de Brasilia - ETB](http://www.etb.com.br/) onde tive meu primeiro contato com a area de programação. Graduado em Analise e  Desenvolvimento de Sistemas na [Gran Faculdade](https://faculdade.grancursosonline.com.br/curso/analise-e-desenvolvimento-de-sistemas/) e cursando Pós-graduação em Desenvolvimento e Testes de Software e Pós-graduação em Inovação, Inteligência Artificial e Robótica Educacional . 
 
 ## Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-gama-384b5692/)
